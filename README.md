@@ -6,8 +6,8 @@
 
 ## Мои проекты
 
-- [Calculator](https://github.com/yuhjn69/calculator1) — калькулятор с парсером выражений и валидацией ввода. [Demo](https://yuhjn69.github.io/calculator1/)
-
+- [Calculator](https://github.com/yuhjn69/calculator1) - калькулятор с парсером выражений и валидацией ввода. [Demo](https://yuhjn69.github.io/calculator1/)
+- [js-utils](https://github.com/yuhjn69/js-utils) - Коллекция утилит на чистом JavaScript.
 ---
 
 ## Стек
